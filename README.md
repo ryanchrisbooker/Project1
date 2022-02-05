@@ -1,2 +1,2 @@
-# Project1
+# project1
 Sample website template
